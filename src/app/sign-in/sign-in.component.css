@@ -1,0 +1,30 @@
+.icon {
+    margin-bottom: 3em;
+}
+
+.icon i {
+    font-size: 3em;
+    color: #555;
+}
+
+.contactInfo {
+    border: 2px solid #cfcdcd;
+    border-radius: 10px;
+}
+
+form {
+    width: 100%;
+}
+
+input {
+    width: 100%;
+}
+
+.contact-input-field {
+    width: 90%;
+    background-color: cyan;
+}
+
+.ontactForm {
+    width: 100%;
+}

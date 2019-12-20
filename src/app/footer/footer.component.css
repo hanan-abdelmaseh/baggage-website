@@ -1,0 +1,11 @@
+.copyWrights {
+    background-color: #eff1f1;
+}
+
+.copyWrights p {
+    font-size: 0.9em;
+    color: #777;
+    line-height: 1.9em;
+    letter-spacing: 1px;
+    margin-bottom: 0;
+}

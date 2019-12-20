@@ -1,0 +1,95 @@
+.home {
+    background-color: #74d2e7;
+}
+
+h3 {
+    font-size: 30px;
+    color: #333;
+    margin-bottom: 0.7em;
+    letter-spacing: 2px;
+    font-family: 'Hind', sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+span {
+    color: #fff
+}
+
+.shop {
+    background: #ec1c24;
+    transition: all 0.25s ease;
+    color: #fff;
+    padding: 0.6em 2.5em;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    letter-spacing: 2px;
+    font-weight: 600;
+    box-shadow: 1px 3px 8px 0 rgba(0, 0, 0, 0.15);
+}
+
+@media (min-width: 992px) {
+    .col-lg-7 {
+        flex: 0 0 58.333333%;
+        max-width: 58.333333%;
+    }
+}
+
+
+/* second section*/
+
+.item1 {
+    padding: 0 0.5em;
+}
+
+h4 {
+    font-size: 1.2em;
+    color: #4c4d4e;
+    margin: 2em 0 1em 0;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-family: 'Hind', sans-serif;
+}
+
+p {
+    font-size: 0.9em;
+    color: #777;
+    line-height: 1.9em;
+    letter-spacing: 1px;
+    margin-bottom: 0;
+}
+
+.collections {
+    background-color: #f7f7f7;
+}
+
+.image img {
+    width: 100%;
+    height: 100%;
+}
+
+.extraInfo {
+    position: absolute;
+    bottom: 20%;
+    left: 10%;
+}
+
+.extraInfo h4,
+.extraInfo1 h4 {
+    color: #fff;
+    font-weight: 300;
+}
+
+@media (max-width: 1450px) {
+    .extraInfo h4 {
+        font-size: 1.6em;
+    }
+}
+
+.extraInfo1 {
+    right: 10%;
+    position: absolute;
+    bottom: 20%;
+}

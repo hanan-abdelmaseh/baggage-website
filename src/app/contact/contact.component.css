@@ -1,0 +1,46 @@
+.contact {
+    background-color: #f7f7f7;
+}
+
+.contact h3 {
+    color: #333;
+    font-weight: 600;
+    font-size: 2.5rem;
+}
+
+.contactInfo {
+    border: 2px solid #cfcdcd;
+    border-radius: 10px;
+}
+
+form {
+    width: 100%;
+}
+
+input {
+    width: 100%;
+}
+
+.contact-input-field {
+    width: 90%;
+    background-color: cyan;
+}
+
+.ontactForm {
+    width: 100%;
+}
+
+.infomation1 p {
+    font-size: 0.9em;
+    color: #777;
+    line-height: 1.9em;
+    letter-spacing: 1px;
+    margin-top: 0;
+}
+
+.infomation1 a {
+    font-size: 1.1em;
+    color: #ec1c24;
+    line-height: 3em;
+    text-decoration: none;
+}

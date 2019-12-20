@@ -1,0 +1,54 @@
+.subscribe {
+    background-color: #f7f7f7;
+}
+
+form {
+    margin: 0 auto;
+    width: 60%;
+}
+
+.subscribe p {
+    font-size: 1.2em;
+    margin-bottom: 2em;
+    color: #777;
+    font-weight: 600;
+    line-height: 1.9em;
+    letter-spacing: 1px;
+}
+
+.offer1 {
+    background: #080808;
+    padding: 2em;
+}
+
+.special {
+    background: #333;
+}
+
+.offer1:hover {
+    background-color: rgb(5, 233, 233);
+}
+
+.icon {
+    font-size: 2em;
+    text-align: center;
+    color: #ec1c24;
+    margin-bottom: 0.3em;
+}
+
+h3 {
+    font-size: 1.2em;
+    color: #fff;
+    margin: 0.5em 0;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.discription p {
+    font-size: 0.9em;
+    color: #777;
+    line-height: 1.9em;
+    letter-spacing: 1px;
+    margin-bottom: 0;
+}

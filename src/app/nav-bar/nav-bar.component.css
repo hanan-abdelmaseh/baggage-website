@@ -1,0 +1,62 @@
+a:hover {
+    color: red!important;
+    text-decoration: none;
+}
+
+.main {
+    background-color: #74d2e7;
+    position: relative;
+}
+
+.mainItem {
+    border-bottom: 1px solid #8bb4df;
+    padding-bottom: 0.5rem;
+}
+
+h1 {
+    margin: 0;
+    letter-spacing: 1px;
+    font-family: 'Hind', sans-serif;
+}
+
+#logo a {
+    float: left;
+    font-size: .8em;
+    display: initial;
+    margin: 0;
+    letter-spacing: 0px;
+    color: #333;
+    font-weight: 300;
+    padding: 3px 0;
+    border: none;
+}
+
+#logo a span {
+    color: #fff;
+    font-size: 1.4em;
+    font-weight: 700;
+    text-shadow: 3px 1px 3px rgba(19, 18, 18, 0.19);
+}
+
+.mainLabel {
+    text-transform: uppercase;
+    display: block;
+    font-size: 0.3em;
+    margin: 0;
+    color: #5b7a9a;
+    letter-spacing: 4px;
+    font-weight: 600;
+    text-shadow: 3px 1px 3px rgba(78, 73, 73, 0.21);
+}
+
+.forms i {
+    color: #fff;
+}
+
+header a.btn {
+    border-radius: 4px;
+    color: #4d6171;
+    letter-spacing: 1px;
+    border: none;
+    outline: none;
+}
